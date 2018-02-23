@@ -1,0 +1,21 @@
+problem 1 .
+
+download eclipse, tomcat, mysql,java
+
+
+problem 2.
+
+Bugs
+
+1. a problem with jsp-api.jar so find the api.jar in tomcate's lib folder
+
+2. a problem with ojdbc14.jar so added a mysql connector
+
+
+3. a problem with servlet-api.jar so find the api.jar in tomcate's lib folder
+
+
+
+problem 3.
+
+changed code in DBinitilizer.java , GetCon.java
